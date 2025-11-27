@@ -1,0 +1,17 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "Sources": [
+    {
+      "Name": "winget",
+      "Argument": "https://cdn.winget.microsoft.com/cache"
+    }
+  ],
+  "Packages": [
+    {
+      "PackageIdentifier": "Google.Chrome"
+    },
+    {
+      "PackageIdentifier": "7zip.7zip"
+    }
+  ]
+}
