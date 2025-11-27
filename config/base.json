@@ -7,11 +7,7 @@
     }
   ],
   "Packages": [
-    {
-      "PackageIdentifier": "Google.Chrome"
-    },
-    {
-      "PackageIdentifier": "7zip.7zip"
-    }
+    { "PackageIdentifier": "Google.Chrome" },
+    { "PackageIdentifier": "7zip.7zip" }
   ]
 }
